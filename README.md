@@ -165,7 +165,7 @@ I'm a B.Tech Information Technology student with a strong passion for AI/ML and 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 </div>
 
 ---
