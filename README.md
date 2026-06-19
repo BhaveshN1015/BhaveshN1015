@@ -133,7 +133,7 @@ I'm a B.Tech Information Technology student with a strong passion for AI/ML and 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
