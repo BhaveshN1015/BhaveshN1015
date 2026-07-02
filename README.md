@@ -122,9 +122,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=BhaveshN1015&color=f97316&style=for-the-badge&label=Profile+Views)
 
 </div>
-
 ##  About Me
-I'm a B.Tech Information Technology student with a strong passion for AI/ML and development, focused on building practical, intelligent systems that solve real-world problems. I really like to work with AI models,building and training them, currently working on LLMs and  RAG architecture. I'm a fast learner who stays curious about emerging technologies. Currently seeking an internship opportunity where I can contribute meaningfully, grow alongside experienced engineers, and work on impactful projects.
+
 
 
 ## 🛠️ Tech Stack
